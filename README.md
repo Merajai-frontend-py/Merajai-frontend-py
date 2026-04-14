@@ -3,11 +3,12 @@
 
 Email Me 👉 ✉️ **luciferstaraa001@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**  Python beginner projects for my GitHub and Gulf uni applications.
-- 🌱 **I’m currently learning:** Python, Pandas/NumPy for data science, prepping for UG AI/Data Science  admissions.
-- 👯 **I’m looking to collaborate on:**  Beginner Python AI projects or portfolio.
-- 🤔 **I’m looking for help with:**  Python debugging, GitHub setup for projects, or tips on AI/Data Science admissions/scholarships.
-- 💬 **Ask me about:**  Python coding basics, multilingual tech chats, or building GitHub portfolios post-Class 12.
+- 🔭 **I’m currently working on:** Beginner-level HTML, CSS, and JavaScript projects for my GitHub and Gulf uni applications.
+- 🌱 **I’m currently learning:** HTML, CSS, and JavaScript for web development, preparing for UG AI/Data Science  admissions.
+- 👯 **I’m looking to collaborate on:**  Beginner HTML, CSS, and JavaScript projects or web development portfolios.
+
+- 🤔 **I’m looking for help with:**  HTML, CSS, and JavaScript debugging, GitHub setup for projects, or tips on AI/Data Science admissions/scholarships.
+- 💬 **Ask me about:** HTML, CSS, JavaScript basics and GitHub portfolios after Class 12.
 - 📫 **How to reach me:** luciferstaraa001@gmail.com
 - 😄 **Pronouns:** Lucifer
 - ⚡ **Fun fact:**  Just finished Class 12 and chasing AI dreams with Python—from Dildarnagar streets to Middle East campuses! 🚀
